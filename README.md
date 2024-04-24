@@ -1,5 +1,5 @@
 # GPT Voice assistant
-Voice assistant with openai api. Its ChatGPT but you can talk to it and it talks back.
+Simple voice assistant with openai api. Its ChatGPT but you can talk to it and it talks back.
 ## Requirements:
 <pre>
 pip install SpeechRecognition
