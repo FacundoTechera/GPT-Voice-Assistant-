@@ -7,7 +7,7 @@ pip install openai
 pip install pyttsx3
 </pre>
 
-## Run assistant
+## Run assistant:
 <pre>
 python voice_assistant.py
 </pre>
